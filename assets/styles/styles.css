@@ -22,6 +22,9 @@ body {
 .gradient-bg {
     background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
 }
+.gradient-bg-2 {
+    background: linear-gradient(135deg, var(--primary) 0%, #f158ff 100%);
+}
 
 .hero-bg {
     background: radial-gradient(ellipse at center, #bbbbbb85 0%, #f9a8ffcc 100%), url('/api/placeholder/1920/1080') center/cover no-repeat;
